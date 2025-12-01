@@ -24,7 +24,7 @@ B.Tech CSE (AI/ML) Student | Web Developer | DSA in C++
 - HackerRank: (add link)
 - LinkedIn: (add link)
 
-### 🎯 Goals (2024–2025)
+### 🎯 Goals (2025–2026)
 - Crack a Web/Software Development Internship
 - Build 5+ production-ready projects
 - Master DSA fundamentals in C++
